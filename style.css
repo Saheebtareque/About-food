@@ -81,3 +81,34 @@ h1 span{
     width: 60%;
     padding-left: 150px;
 }
+
+.recipe {
+    margin-bottom: 55px;;
+
+}
+.recipe h1{
+ text-align: center;
+ color: rgb(70, 66, 66);
+ font-weight: 700;
+}
+.recipe p{
+    text-align: center;
+   }
+.main {
+    display: flex;
+
+}
+.third p{ 
+    text-align:start;
+}
+.third{
+    width: 25%;
+    padding: 10px;
+    margin-left: 50px;;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+
+}
+.third img {
+    width: 100%;
+}
