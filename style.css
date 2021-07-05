@@ -105,10 +105,25 @@ h1 span{
     width: 25%;
     padding: 10px;
     margin-left: 50px;;
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 40px rgb(90, 88, 88);
     border-radius: 20px;
 
 }
 .third img {
     width: 100%;
+}
+
+.subscriber{
+    padding: 40px;
+    margin: 40px 30px;
+    display: flex;
+    box-shadow: 10px 10px 40px rgb(90, 88, 88);
+    border-radius: 20px;
+
+
+}
+
+.fourth{
+    width:33.33%;
+    margin-left:100px ;
 }
